@@ -1,8 +1,7 @@
-## Hi there 👋
+# Unigist
 
-Welcome to #unitlearn.
-The idea is simple - we are a group of web relate tech guys 
-gathering togather solving different challenge designs
+Welcome to #Unigist
+A bloging platform
 
 
 <!--
